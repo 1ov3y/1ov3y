@@ -4,8 +4,8 @@
 
 **DevOps · SRE · DevSecOps · Platform Engineer**
 
-[![](https://komarev.com/ghpvc/?username=devvelvet&style=flat-square&color=58a6ff&label=views)](https://github.com/devvelvet)
-[![GitHub followers](https://img.shields.io/github/followers/devvelvet?style=flat-square&color=58a6ff&label=followers)](https://github.com/devvelvet)
+[![](https://komarev.com/ghpvc/?username=devvelvet&style=flat-square&color=58a6ff&label=views)](https://github.com/1ov3y)
+[![GitHub followers](https://img.shields.io/github/followers/devvelvet?style=flat-square&color=58a6ff&label=followers)](https://github.com/1ov3y)
 
 </div>
 
